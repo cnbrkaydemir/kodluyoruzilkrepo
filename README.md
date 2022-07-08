@@ -27,5 +27,3 @@ Pull requestler kabul edilir. Büyük değişiklikler için, lütfen önce neyi 
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
-=======
->>>>>>> 0c3c88dc9e68918de5cdfd935b0a895bda793e88
